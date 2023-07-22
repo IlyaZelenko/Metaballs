@@ -1,421 +1,399 @@
 ﻿  metaballs.cpp
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(58,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(58,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(59,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(59,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(60,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(60,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(61,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(61,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(63,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(64,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(65,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(66,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(67,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(70,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(17,26): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(21,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(104,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(104,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(105,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(105,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(106,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(106,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(107,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(107,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(111,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(70,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(112,15): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(71,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(113,15): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(71,15): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(114,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(72,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(120,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(128,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(72,15): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(128,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(73,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(129,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(73,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(129,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(81,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(130,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(81,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(130,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(82,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(131,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(82,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(131,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(83,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(138,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(83,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(138,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(84,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(146,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(84,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(146,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(91,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(154,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(91,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(154,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(99,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(157,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(99,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(157,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(107,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(163,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(107,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(163,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(110,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(171,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(110,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(171,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(116,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(174,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(116,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(174,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(124,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(181,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(124,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(181,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(127,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(184,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(127,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(184,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(134,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(191,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(134,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(191,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(137,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(192,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(137,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(192,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(144,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(195,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(144,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(195,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(145,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(201,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(145,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(201,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(148,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(210,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(148,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(210,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(154,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(213,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(154,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(213,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(163,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(220,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(163,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(220,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(166,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(223,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(166,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(223,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(173,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(229,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(173,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(229,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(176,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(230,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(176,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(230,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(182,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(231,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(182,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(231,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(183,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(239,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(183,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(239,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(184,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(242,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(184,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(242,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(192,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(248,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(192,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(248,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(195,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(249,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(195,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(249,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(201,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(250,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(201,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(250,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(202,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(258,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(202,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(258,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(203,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(259,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(203,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(259,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(211,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(260,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(211,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(260,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(212,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(268,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(212,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(268,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(213,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(269,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(213,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(269,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(221,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(270,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(221,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(270,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(222,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(271,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(222,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(271,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(223,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(223,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(224,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(224,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(278,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating code
-C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\metaballs.cpp(227): warning C4715: 'CalculateTheShape': not all control paths return a value
-  1 of 9 functions (11.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\metaballs.cpp(274): warning C4715: 'CalculateTheShape': not all control paths return a value
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  metaballs.vcxproj -> C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\x64\Release\metaballs.exe
+  metaballs.vcxproj -> C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\x64\Release\metaballs.exe

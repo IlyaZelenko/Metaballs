@@ -1,1 +1,2 @@
 C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\x64\Release\metaballs.exe
+C:\Users\Ilya\Desktop\code\practice\Eeeexperiments\metaballs\metaballs\Metaballs\x64\Release\metaballs.exe
